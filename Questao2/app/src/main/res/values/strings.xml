@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de Salário</string>
+    <string name="app_title">Cálculo de Reajuste Salarial</string>
+    <string name="salary_label">Digite seu salário atual (R$):</string>
+    <string name="salary_hint">Ex: 1500.00</string>
+    <string name="percentage_label">Selecione o percentual de aumento:</string>
+    <string name="percent_40">40% de aumento</string>
+    <string name="percent_45">45% de aumento</string>
+    <string name="percent_50">50% de aumento</string>
+    <string name="calculate_button">Calcular Novo Salário</string>
+    <string name="result_title">Resultado do Reajuste</string>
+    <string name="original_salary">Salário original: R$ %s</string>
+    <string name="percentage_format">Percentual de aumento: %d%%</string>
+    <string name="increase_value">Valor do aumento: R$ %s</string>
+    <string name="new_salary">Novo salário: R$ %s</string>
+    <string name="error_empty_salary">Por favor, digite um salário válido</string>
+    <string name="error_select_percentage">Por favor, selecione um percentual de aumento</string>
+</resources>
