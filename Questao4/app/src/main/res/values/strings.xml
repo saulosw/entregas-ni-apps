@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lanche Fácil</string>
+    <string name="bem_vindo">Bem-vindo ao Lanche Fácil!</string>
+    <string name="iniciar_pedido">Fazer Pedido</string>
+    <string name="nome_cliente">Seu Nome</string>
+    <string name="escolha_lanche">Escolha seu Lanche:</string>
+    <string name="lanche_hamburguer">Hambúrguer</string>
+    <string name="lanche_pizza">Pizza</string>
+    <string name="lanche_hotdog">Hot Dog</string>
+    <string name="lanche_salada">Salada</string>
+    <string name="confirmar_pedido">Confirmar Pedido</string>
+    <string name="pedido_concluido">Pedido Registrado com Sucesso!</string>
+    <string name="resumo_pedido">Olá %1$s, seu pedido de %2$s foi registrado!</string>
+    <string name="novo_pedido">Fazer Novo Pedido</string>
+    <string name="selecione_lanche">Por favor, selecione um lanche</string>
+</resources>
