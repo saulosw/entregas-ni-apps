@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Atividade5" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="colorSecondaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <!-- Background color. -->
+        <item name="android:windowBackground">@color/colorBackground</item>
+
+        <!-- Customize button style -->
+        <item name="materialButtonStyle">@style/Widget.Atividade5.Button</item>
+
+        <!-- Customize checkbox style -->
+        <item name="checkboxStyle">@style/Widget.Atividade5.CheckBox</item>
+
+        <!-- Customize radio button style -->
+        <item name="radioButtonStyle">@style/Widget.Atividade5.RadioButton</item>
+    </style>
+
+    <!-- Custom button style -->
+    <style name="Widget.Atividade5.Button" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/colorPrimary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+
+    <!-- Custom checkbox style -->
+    <style name="Widget.Atividade5.CheckBox" parent="Widget.MaterialComponents.CompoundButton.CheckBox">
+        <item name="android:buttonTint">@color/colorPrimary</item>
+        <item name="android:textColor">@color/colorText</item>
+    </style>
+
+    <!-- Custom radio button style -->
+    <style name="Widget.Atividade5.RadioButton" parent="Widget.MaterialComponents.CompoundButton.RadioButton">
+        <item name="android:buttonTint">@color/colorPrimary</item>
+        <item name="android:textColor">@color/colorText</item>
+    </style>
+</resources>

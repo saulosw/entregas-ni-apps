@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pizza Express</string>
+
+    <!-- Tela de seleção de pizza -->
+    <string name="selecione_pizzas">Selecione os sabores:</string>
+    <string name="calabresa">Calabresa - R$ 5,00</string>
+    <string name="marguerita">Marguerita - R$ 5,00</string>
+    <string name="portuguesa">Portuguesa - R$ 6,00</string>
+    <string name="quatro_queijos">Quatro Queijos - R$ 7,00</string>
+    <string name="frango_catupiry">Frango c/ Catupiry - R$ 6,50</string>
+    <string name="proximo">Próximo</string>
+    <string name="erro_selecao">Por favor, selecione pelo menos um sabor</string>
+
+    <!-- Tela de seleção de tamanho e pagamento -->
+    <string name="selecione_tamanho">Selecione o tamanho:</string>
+    <string name="tamanho_pequena">Pequena (25cm) - Multiplicador: 1.0x</string>
+    <string name="tamanho_media">Média (35cm) - Multiplicador: 1.5x</string>
+    <string name="tamanho_grande">Grande (45cm) - Multiplicador: 2.0x</string>
+    <string name="selecione_pagamento">Selecione o método de pagamento:</string>
+    <string name="pagamento_dinheiro">Dinheiro (5% de desconto)</string>
+    <string name="pagamento_cartao">Cartão</string>
+    <string name="finalizar_pedido">Finalizar Pedido</string>
+    <string name="erro_tamanho">Por favor, selecione um tamanho</string>
+    <string name="erro_pagamento">Por favor, selecione um método de pagamento</string>
+
+    <!-- Tela de resumo do pedido -->
+    <string name="resumo_pedido">Resumo do Pedido</string>
+    <string name="sabores_selecionados">Sabores Selecionados:</string>
+    <string name="tamanho_selecionado">Tamanho Selecionado:</string>
+    <string name="forma_pagamento">Forma de Pagamento:</string>
+    <string name="valor_total">Valor Total:</string>
+    <string name="formatar_preco">R$ %.2f</string>
+    <string name="novo_pedido">Fazer Novo Pedido</string>
+</resources>
